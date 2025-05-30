@@ -38,13 +38,13 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
    - **Additional KPI Metrics**: Assess how other KPIs (Avg sales, no. of items, avg rating) vary with fat content.
    - **Chart Type**: Bar Chart.
 
-3.**Fat Content by Outlet for Total Sales**
+3. **Fat Content by Outlet for Total Sales**
    - **Objective**: Compare total sales across different outlets segmented by fat content.
    - **Additional KPI Metrics**: Assess how other KPIs (Avg sales, no. of items, avg rating) vary with fat content.
    - **Chart Type**: Stacked Column Chart.
 
-4.** Total Sales by Outlet Establishment**
-   -**Objective**: Evaluate how the age or type of outlet establishment influence total sales.
+4. **Total Sales by Outlet Establishment**
+   - **Objective**: Evaluate how the age or type of outlet establishment influence total sales.
    - **Chart Type**: Line Chart.
 
 5. **Sales by Outlet Size**  
